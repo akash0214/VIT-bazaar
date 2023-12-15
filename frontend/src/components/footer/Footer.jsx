@@ -49,7 +49,7 @@ function Footer() {
           </button>
         </div>
         <p className="text-textcolor1 text-l text-white">
-          2022 Copyright | Designed by Forbidden-403
+          2023 Copyright | Designed by Ashita
         </p>
       </FooterSection>
 
