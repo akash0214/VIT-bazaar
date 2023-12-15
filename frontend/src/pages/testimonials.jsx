@@ -58,7 +58,7 @@ function Testimonials() {
                         <div className="mx-[6%] my-[3%] sm:flex ">
                             <img className=' rounded-full mr-[2%] ' src="https://source.unsplash.com/300x300/?profile" alt="" />
                             <div className=" self-center ">
-                                <div className="  font-extrabold text-[200%] text-slate-300">TANUSH CHAUDHARY</div>
+                                <div className="  font-extrabold text-[200%] text-slate-300">Sourabh Kumar Gupta</div>
                                 <div className="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod et quisquam id quae expedita, qui debitis fuga itaque vero veniam ipsa omnis provident vel saepe voluptates iste iure eligendi quasi officia optio ipsum consectetur neque corporis doloribus. Deserunt earum sed itaque pariatur fugit, qui ducimus assumenda accusamus iusto rem voluptate! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime iste placeat nesciunt explicabo ab sit accusantium voluptatem, iure, quibusdam aut exercitationem excepturi porro fuga ut!</div>
                             </div>
                         </div>
@@ -67,7 +67,7 @@ function Testimonials() {
                         <div className="mx-[6%] my-[3%] sm:flex ">
                             <img className=' rounded-full mr-[2%]' src="https://source.unsplash.com/300x300/?profile" alt="" />
                             <div className=" self-center ">
-                                <div className="  font-extrabold text-[200%] text-slate-300">TANUSH CHAUDHARY</div>
+                                <div className="  font-extrabold text-[200%] text-slate-300">Akash Singh</div>
                                 <div className="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod et quisquam id quae expedita, qui debitis fuga itaque vero veniam ipsa omnis provident vel saepe voluptates iste iure eligendi quasi officia optio ipsum consectetur neque corporis doloribus. Deserunt earum sed itaque pariatur fugit, qui ducimus assumenda accusamus iusto rem voluptate! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime iste placeat nesciunt explicabo ab sit accusantium voluptatem, iure, quibusdam aut exercitationem excepturi porro fuga ut!</div>
                             </div>
                         </div>
@@ -76,7 +76,7 @@ function Testimonials() {
                         <div className="mx-[6%] my-[3%] sm:flex ">
                             <img className=' rounded-full mr-[2%]' src="https://source.unsplash.com/300x300/?profile" alt="" />
                             <div className=" self-center ">
-                                <div className="  font-extrabold text-[200%] text-slate-300">TANUSH CHAUDHARY</div>
+                                <div className="  font-extrabold text-[200%] text-slate-300">Jatin Singh</div>
                                 <div className="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod et quisquam id quae expedita, qui debitis fuga itaque vero veniam ipsa omnis provident vel saepe voluptates iste iure eligendi quasi officia optio ipsum consectetur neque corporis doloribus. Deserunt earum sed itaque pariatur fugit, qui ducimus assumenda accusamus iusto rem voluptate! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime iste placeat nesciunt explicabo ab sit accusantium voluptatem, iure, quibusdam aut exercitationem excepturi porro fuga ut!</div>
                             </div>
                         </div>
@@ -85,7 +85,7 @@ function Testimonials() {
                         <div className="mx-[6%] my-[3%] sm:flex ">
                             <img className=' rounded-full mr-[2%]' src="https://source.unsplash.com/300x300/?profile" alt="" />
                             <div className=" self-center ">
-                                <div className="  font-extrabold text-[200%] text-slate-300">TANUSH CHAUDHARY</div>
+                                <div className="  font-extrabold text-[200%] text-slate-300">Ashita Verma</div>
                                 <div className="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod et quisquam id quae expedita, qui debitis fuga itaque vero veniam ipsa omnis provident vel saepe voluptates iste iure eligendi quasi officia optio ipsum consectetur neque corporis doloribus. Deserunt earum sed itaque pariatur fugit, qui ducimus assumenda accusamus iusto rem voluptate! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime iste placeat nesciunt explicabo ab sit accusantium voluptatem, iure, quibusdam aut exercitationem excepturi porro fuga ut!</div>
                             </div>
                         </div>
@@ -94,7 +94,7 @@ function Testimonials() {
                         <div className="mx-[6%] my-[3%] sm:flex ">
                             <img className=' rounded-full mr-[2%]' src="https://source.unsplash.com/300x300/?profile" alt="" />
                             <div className=" self-center ">
-                                <div className="  font-extrabold text-[200%] text-slate-300">TANUSH CHAUDHARY</div>
+                                <div className="  font-extrabold text-[200%] text-slate-300">Vidushi Shukla</div>
                                 <div className="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod et quisquam id quae expedita, qui debitis fuga itaque vero veniam ipsa omnis provident vel saepe voluptates iste iure eligendi quasi officia optio ipsum consectetur neque corporis doloribus. Deserunt earum sed itaque pariatur fugit, qui ducimus assumenda accusamus iusto rem voluptate! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime iste placeat nesciunt explicabo ab sit accusantium voluptatem, iure, quibusdam aut exercitationem excepturi porro fuga ut!</div>
                             </div>
                         </div>
