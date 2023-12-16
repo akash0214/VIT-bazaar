@@ -82,7 +82,7 @@ const Navabr = () => {
         <div className=" sm:absolute">
           <Navbar.Brand href="/">
             <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
-              College Bazzar
+              VIT BAZAAR
             </span>
           </Navbar.Brand>
         </div>

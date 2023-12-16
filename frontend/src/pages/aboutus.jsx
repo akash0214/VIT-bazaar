@@ -19,7 +19,7 @@ const Aboutus = () => {
               <ul className="pt-[3rem]">
                 <ul>
                   <li>
-                    <h1 className="text-[4rem] font-medium">150+</h1>
+                    <h1 className="text-[4rem] font-medium">5+</h1>
                   </li>
                   <li>
                     <h3 className="text-[1.5rem] text-gray-500 mb-[3rem]  ">
@@ -29,7 +29,7 @@ const Aboutus = () => {
                 </ul>
                 <ul>
                   <li>
-                    <h1 className="text-[4rem] font-medium">50+</h1>
+                    <h1 className="text-[4rem] font-medium">0</h1>
                   </li>
                   <li>
                     <h3 className="text-[1.5rem] text-gray-500 mb-[3rem]">
@@ -80,35 +80,30 @@ const Aboutus = () => {
                   alt="Sunset in the mountains"
                 />
                 <div class="px-6 py-1 bg-green-200">
-                  <div class="font-bold text-xl mb-2">The Coldest Sunset</div>
+                  <div class="font-bold text-xl mb-2">Jatin Singh</div>
                   <p class="text-gray-700 text-base">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Voluptatibus quia, nulla! Maiores et perferendis eaque,
-                    exercitationem praesentium nihil.
+                    Jatin is working on the Front-end portion of this project.The pages build by him are Home , About-us.
                   </p>
                 </div>
                 <div class="px-6 pt-4 pb-2 bg-green-200">
                   <span class="inline-block bg-red-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
-                    #photography
+                    #Cooking
                   </span>
                   <span class="inline-block bg-red-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
                     #travel
                   </span>
                   <span class="inline-block bg-red-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
-                    #winter
+                    #Automonile-blogs
                   </span>
                 </div>
               </div>
             </div>
             <div className=" w-[100%] sm:w-[50%] h-[30rem] mr-[7%] m-[auto]">
               <h2 className="text-4xl text-center pt-[15%] font-bold">
-                Unique Name
+                Jatin Singh
               </h2>
               <p className="text-xl text-center mt-16">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi
-                omnis aut perspiciatis doloremque amet. Autem dolore omnis neque
-                minus labore obcaecati quis error sint, nulla repellendus
-                assumenda deleniti sunt dolorem?
+              Upcoming Intern @PriceWaterHouseCooper | Web developer | SalesForce Developer | Final Year Undergrad at Vellore Institute of Technology, Bhopal
               </p>
             </div>
           </div>
@@ -116,13 +111,10 @@ const Aboutus = () => {
           <div className="flex flex-col-reverse sm:flex-row ">
             <div className=" w-[100%] sm:w-[50%] h-[30rem] mr-[7%] m-[auto]">
               <h2 className="text-4xl text-center pt-[15%] font-bold">
-                Unique Name
+                Sourabh Kumar
               </h2>
               <p className="text-xl text-center mt-16">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi
-                omnis aut perspiciatis doloremque amet. Autem dolore omnis neque
-                minus labore obcaecati quis error sint, nulla repellendus
-                assumenda deleniti sunt dolorem?
+              Bajaj Finserv Hackathon Runner-up | Web developer | Final Year Undergrad at Vellore Institute of Technology, Bhopal
               </p>
             </div>
             <div className=" w-[100%] sm:w-[25%] h-[30rem] ml-[7%] mr-[5%] m-[auto] k rotate-[-3deg]">
@@ -133,11 +125,9 @@ const Aboutus = () => {
                   alt="Sunset in the mountains"
                 />
                 <div class="px-6 py-1 bg-green-200">
-                  <div class="font-bold text-xl mb-2">The Coldest Sunset</div>
+                  <div class="font-bold text-xl mb-2">Sourabh Kumar Gupta</div>
                   <p class="text-gray-700 text-base">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Voluptatibus quia, nulla! Maiores et perferendis eaque,
-                    exercitationem praesentium nihil.
+                  Sourabh is working on the Front-end portion of this project.The pages build by him are Testimonial , Contact-us and Post-Item.
                   </p>
                 </div>
                 <div class="px-6 pt-4 pb-2 bg-green-200">
@@ -145,10 +135,10 @@ const Aboutus = () => {
                     #photography
                   </span>
                   <span class="inline-block bg-red-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
-                    #travel
+                    #Basketball
                   </span>
                   <span class="inline-block bg-red-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
-                    #winter
+                    #Blog
                   </span>
                 </div>
               </div>
@@ -164,35 +154,30 @@ const Aboutus = () => {
                   alt="Sunset in the mountains"
                 />
                 <div class="px-6 py-1 bg-green-200">
-                  <div class="font-bold text-xl mb-2">The Coldest Sunset</div>
+                  <div class="font-bold text-xl mb-2">Ashita Verma</div>
                   <p class="text-gray-700 text-base">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Voluptatibus quia, nulla! Maiores et perferendis eaque,
-                    exercitationem praesentium nihil.
+                  Ashita is working on the Front-end portion of this project.The pages build by her are Login/Signup , Landing.Ashita has also degigned this Website.
                   </p>
                 </div>
                 <div class="px-6 pt-4 pb-2 bg-green-200">
                   <span class="inline-block bg-red-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
-                    #photography
+                    #Cycling
                   </span>
                   <span class="inline-block bg-red-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
-                    #travel
+                    #Travel
                   </span>
                   <span class="inline-block bg-red-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
-                    #winter
+                    #Cooking
                   </span>
                 </div>
               </div>
             </div>
             <div className=" w-[100%] sm:w-[50%] h-[30rem] mr-[7%] m-[auto]">
               <h2 className="text-4xl text-center pt-[15%] font-bold">
-                Unique Name
+                Ashita Verma
               </h2>
               <p className="text-xl text-center mt-16">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi
-                omnis aut perspiciatis doloremque amet. Autem dolore omnis neque
-                minus labore obcaecati quis error sint, nulla repellendus
-                assumenda deleniti sunt dolorem?
+              Former Advanced Application Analyst Intern @Accenture | Web developer | Final Year Undergrad at Vellore Institute of Technology, Bhopal
               </p>
             </div>
           </div>
@@ -200,13 +185,10 @@ const Aboutus = () => {
           <div className="flex flex-col-reverse sm:flex-row ">
             <div className=" w-[100%] sm:w-[50%] h-[30rem] mr-[7%] m-[auto]">
               <h2 className="text-4xl text-center pt-[15%] font-bold">
-                Unique Name
+                Akash Singh
               </h2>
               <p className="text-xl text-center mt-16">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi
-                omnis aut perspiciatis doloremque amet. Autem dolore omnis neque
-                minus labore obcaecati quis error sint, nulla repellendus
-                assumenda deleniti sunt dolorem?
+              Stock Market Analyst and Trader | Ex-Market Team Lead @FinTech Club VITB | Finance Enthusiast | Software Programmer | Algo Programmer
               </p>
             </div>
             <div className=" w-[100%] sm:w-[25%] h-[30rem] ml-[7%] mr-[5%] m-[auto] k rotate-[-3deg]">
@@ -217,11 +199,9 @@ const Aboutus = () => {
                   alt="Sunset in the mountains"
                 />
                 <div class="px-6 py-1 bg-green-200">
-                  <div class="font-bold text-xl mb-2">The Coldest Sunset</div>
+                  <div class="font-bold text-xl mb-2">Akash Singh</div>
                   <p class="text-gray-700 text-base">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Voluptatibus quia, nulla! Maiores et perferendis eaque,
-                    exercitationem praesentium nihil.
+                  Akash is working on the Back-end portion of this project which include Database Management and User-Authentication.
                   </p>
                 </div>
                 <div class="px-6 pt-4 pb-2 bg-green-200">
@@ -236,6 +216,43 @@ const Aboutus = () => {
                   </span>
                 </div>
               </div>
+            </div>
+          </div>
+          {/* Cards - 5 */}
+          <div className="flex flex-col sm:flex-row ">
+            <div className=" w-[100%] sm:w-[25%] h-[30rem] ml-[7%] mr-[5%] m-[auto] k rotate-3">
+              <div class="max-w-sm rounded overflow-hidden shadow-lg">
+                <img
+                  class="w-full bg-green-200"
+                  src={av3}
+                  alt="Sunset in the mountains"
+                />
+                <div class="px-6 py-1 bg-green-200">
+                  <div class="font-bold text-xl mb-2">Vidushi Shukla</div>
+                  <p class="text-gray-700 text-base">
+                  Vidushi is working on the Back-end portion of this project.Vidushi has also designed the Website.
+                  </p>
+                </div>
+                <div class="px-6 pt-4 pb-2 bg-green-200">
+                  <span class="inline-block bg-red-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                    #photography
+                  </span>
+                  <span class="inline-block bg-red-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                    #travel
+                  </span>
+                  <span class="inline-block bg-red-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                    #Badminton
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className=" w-[100%] sm:w-[50%] h-[30rem] mr-[7%] m-[auto]">
+              <h2 className="text-4xl text-center pt-[15%] font-bold">
+                Vidushi Shukla
+              </h2>
+              <p className="text-xl text-center mt-16">
+              CTY Summer Intern @HPE | Microsoft Engage'22 | National Runner-up @ SIH'22 | Management lead @GDSC VIT Bhopal | ACM ICPC Regionalist'21 | Beta Microsoft Learn Student Ambassador
+              </p>
             </div>
           </div>
         </div>

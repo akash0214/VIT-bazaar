@@ -28,7 +28,7 @@ const ContactUs = () => {
                 <p className="text-2xl font-medium text-body-color leading-relaxed mb-9 mx-5">
                   Based in{" "}
                   <span className="font-bold italic">
-                    Delhi Technologial University
+                    Vellore Institute of Technology
                   </span>
                   , available for campus Students.
                 </p>
